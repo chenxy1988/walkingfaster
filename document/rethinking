@@ -1,0 +1,6 @@
+# It's not a formal document, it just a log what i thought
+
+2020/04/14:
+We need to design a framework for application which need high throughput.
+Target is easy to use, C implement, needn't alternative hardward and low cost.
+Host OS should be Linux.
